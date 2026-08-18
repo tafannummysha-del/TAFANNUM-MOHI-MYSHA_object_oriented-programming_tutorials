@@ -26,26 +26,26 @@ Github repository link: https://github.com/tafannummysha-del/TAFANNUM-MOHI-MYSHA
 <br>How to run:
 Navigate to a week's folder, e.g.:
 cd week_1
-Compile and run any Java file:
-javac FileName.java
-java FileName
-Topics Covered
-Introduction to Java programming and OOP principles
-Classes, objects, and methods
-Encapsulation, inheritance, and polymorphism
-Abstract classes and interfaces
-Arrays, strings, and collections
-Exception handling and file I/O
-Tools & Technologies
-Language: Java
-IDE: IntelliJ IDEA / Eclipse / VS Code
-Version Control: Git & GitHub
-Self-Reflective Report
-A full self-reflective report discussing the learning experience, challenges encountered, and knowledge gained throughout the tutorials is available in myreport.pdf.
+Compile and run any Java file:<br>
+javac FileName.java<br>
+java FileName<br>
+Topics Covered<br>
+Introduction to Java programming and OOP principles<br>
+Classes, objects, and methods<br>
+Encapsulation, inheritance, and polymorphism<br>
+Abstract classes and interfaces<br>
+Arrays, strings, and collections<br>
+Exception handling and file I/O<br>
+Tools & Technologies<br>
+Language: Java<br>
+IDE: IntelliJ IDEA / Eclipse / VS Code<br>
+Version Control: Git & GitHub<br>
+Self-Reflective Report<br>
+A full self-reflective report discussing the learning experience, challenges encountered, and knowledge gained throughout the tutorials is available in myreport.pdf.<br>
 
-License
-This repository is licensed under the terms specified in the LICENSE file.
+License<br>
+This repository is licensed under the terms specified in the LICENSE file.<br>
 
-Acknowledgements
-Sir Nazmirul Izzad Bin Nassir — for guidance and instruction throughout the semester.
+Acknowledgements<br>
+Sir Nazmirul Izzad Bin Nassir — for guidance and instruction throughout the semester.<br>
 City University Malaysia, Faculty of Information Technology.
