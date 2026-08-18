@@ -7,11 +7,12 @@ Full Name:Mysha Tafannum Mohi <br>
 Student ID:202505010137 <br>
 Class Code:20206 <br>
 Programme:BIT1123
-Repository Structure
+Repository Structure <br>
 
-├── README.md
-├── myreport.pdf
-├── week_1/        # Tutorial 1 — Introduction to Java & OOP
+
+├── README.md<br>
+├── myreport.pdf<br>
+├── week_1/        # Tutorial 1 — Introduction to Java & OOP<br>
 ├── week_2/        # Tutorial 2 — Classes & Objects
 ├── week3/         # Tutorials 3–4 — Control Flow & Methods
 ├── week_5/        # Tutorial 5 — Arrays
