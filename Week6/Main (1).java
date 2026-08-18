@@ -3,15 +3,15 @@ public class Main {
     public static void main(String[] args) {
 
         Lecturer lecturer = new Lecturer(
-                "L100",
-                "Dr. NAZIM ",
+                "M002",
+                "Dr. Izzad ",
                 "Java Programming"
         );
 
         lecturer.displayInfo();
 
         System.out.println(
-                "Department  : Faculty of Information Technology"
+                "Department  : Faculty of Computer Science"
         );
     }
 }
