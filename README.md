@@ -24,23 +24,22 @@ Each week folder contains the source code (.java files) and any supporting files
 
 Github repository link: https://github.com/tafannummysha-del/TAFANNUM-MOHI-MYSHA_object_oriented-programming_tutorials.git
 <br>How to run:
-Navigate to a week's folder, e.g.:
-cd week_1
+Navigate to a week's folder e.g.:cd week_1
 Compile and run any Java file:<br>
 javac FileName.java<br>
 java FileName<br>
-Topics Covered<br>
-Introduction to Java programming and OOP principles<br>
-Classes, objects, and methods<br>
-Encapsulation, inheritance, and polymorphism<br>
-Abstract classes and interfaces<br>
-Arrays, strings, and collections<br>
-Exception handling and file I/O<br>
-Tools & Technologies<br>
+<br>**Topics Covered**<br>
+1.Introduction to Java programming and OOP principles<br>
+2.Classes, objects, and methods<br>
+3.Encapsulation, inheritance, and polymorphism<br>
+4.Abstract classes and interfaces<br>
+5.Arrays, strings, and collections<br>
+6.Exception handling and file I/O<br>
+**Tools & Technologies**<br>
 Language: Java<br>
 IDE: IntelliJ IDEA / Eclipse / VS Code<br>
 Version Control: Git & GitHub<br>
-Self-Reflective Report<br>
+**Self-Reflective Report**<br>
 A full self-reflective report discussing the learning experience, challenges encountered, and knowledge gained throughout the tutorials is available in myreport.pdf.<br>
 
 License<br>
