@@ -22,7 +22,7 @@ Programme:BIT1123<br>
 Each week folder contains the source code (.java files) and any supporting files produced during the corresponding tutorial session.<br>
 
 Github repository link: https://github.com/tafannummysha-del/TAFANNUM-MOHI-MYSHA_object_oriented-programming_tutorials.git
-<br>How to run:
+<br>**How to run**:
 Navigate to a week's folder e.g.:cd week_1
 Compile and run any Java file:<br>
 javac FileName.java<br>
