@@ -1,5 +1,4 @@
-class Lecturer extends Person {
-
+public class Lecturer extends Person {
     public Lecturer(String name, String id) {
         super(name, id);
     }
