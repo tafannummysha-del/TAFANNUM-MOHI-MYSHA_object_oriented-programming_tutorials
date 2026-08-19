@@ -41,9 +41,9 @@ Version Control: Git & GitHub<br>
 **Self-Reflective Report**<br>
 A full self-reflective report discussing the learning experience, challenges encountered, and knowledge gained throughout the tutorials is available in myreport.pdf.<br>
 
-License<br>
+**License**<br>
 This repository is licensed under the terms specified in the LICENSE file.<br>
 
-Acknowledgements<br>
+**Acknowledgements**<br>
 Sir Nazmirul Izzad Bin Nassir — for guidance and instruction throughout the semester.<br>
 City University Malaysia, Faculty of Information Technology.
