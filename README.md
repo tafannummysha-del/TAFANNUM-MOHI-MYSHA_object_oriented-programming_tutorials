@@ -3,10 +3,10 @@
 A consolidated portfolio of all tutorial work completed for BIT1123 Object Oriented Programming Fundamentals in Java at City University Malaysia.<br>
 
 **Student Details**<br>
-**Full Name:**Mysha Tafannum Mohi <br>
-**Student ID:**202505010137 <br>
-**Class Code:**20206 <br>
-**Programme:**BIT1123<br>
+Full Name:Mysha Tafannum Mohi <br>
+Student ID:202505010137 <br>
+Class Code:20206 <br>
+Programme:BIT1123<br>
 **Repository Structure** <br>
 
 ├── README.md<br>
